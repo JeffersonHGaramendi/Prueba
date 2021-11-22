@@ -45,7 +45,8 @@ namespace Supermarket.API
             // Configure In-Memory Database
             services.AddDbContext<AppDbContext>(options =>
             {
-                options.UseInMemoryDatabase("supermarket-api-in-memory");
+                //options.UseInMemoryDatabase("supermarket-api-in-memory");
+                options.UseMySQL(Configuration.GetConnectionString("SmartApiMySQL"));
             });
             
             // Dependency Injection Rules
