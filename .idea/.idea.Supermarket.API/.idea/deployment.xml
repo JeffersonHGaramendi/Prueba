@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" serverName="market" remoteFilesAllowedToDisappearOnAutoupload="false">
+    <serverData>
+      <paths name="market">
+        <serverdata>
+          <mappings>
+            <mapping local="$USER_HOME$/.nuget/packages/microsoft.net.test.sdk/16.9.4/build/netcoreapp2.1/Microsoft.NET.Test.Sdk.Program.cs" web="/" />
+            <mapping local="$USER_HOME$/.nuget/packages/microsoft.testplatform.testhost/16.9.4/build/netcoreapp2.1/x64/Microsoft.TestPlatform.PlatformAbstractions.dll" web="/" />
+            <mapping local="$USER_HOME$/.nuget/packages/microsoft.testplatform.testhost/16.9.4/build/netcoreapp2.1/x64/testhost.dll" web="/" />
+            <mapping local="$USER_HOME$/.nuget/packages/microsoft.testplatform.testhost/16.9.4/build/netcoreapp2.1/x64/testhost.exe" web="/" />
+            <mapping local="$USER_HOME$/.nuget/packages/specflow.xunit/3.9.22/lib/netstandard2.0/TechTalk.SpecFlow.xUnit.SpecFlowPlugin.dll" web="/" />
+            <mapping local="$USER_HOME$/.nuget/packages/xunit.runner.visualstudio/2.4.3/build/netcoreapp2.1/xunit.runner.reporters.netcoreapp10.dll" web="/" />
+            <mapping local="$USER_HOME$/.nuget/packages/xunit.runner.visualstudio/2.4.3/build/netcoreapp2.1/xunit.runner.utility.netcoreapp10.dll" web="/" />
+            <mapping local="$USER_HOME$/.nuget/packages/xunit.runner.visualstudio/2.4.3/build/netcoreapp2.1/xunit.runner.visualstudio.dotnetcore.testadapter.dll" web="/" />
+            <mapping local="$PROJECT_DIR$/Supermarket.API.Tests/ProductServiceStepsDefinition.cs" web="/" />
+            <mapping local="$PROJECT_DIR$/Supermarket.API.Tests/ProductServiceTests.feature" web="/" />
+            <mapping local="$PROJECT_DIR$/Supermarket.API.Tests/ProductServiceTests.feature.cs" web="/" />
+            <mapping local="$PROJECT_DIR$/Supermarket.API.Tests/Supermarket.API.Tests.csproj" web="/" />
+            <mapping local="$PROJECT_DIR$/Supermarket.API.Tests/UnitTest1.cs" web="/" />
+            <mapping local="$PROJECT_DIR$/Supermarket.API.Tests/obj/Debug/net5.0/Supermarket.API.Tests.AssemblyInfo.cs" web="/" />
+            <mapping local="$PROJECT_DIR$/Supermarket.API.Tests/obj/Debug/net5.0/xUnit.AssemblyHooks.cs" web="/" />
+            <mapping local="$PROJECT_DIR$/Supermarket.API.sln" web="/" />
+            <mapping local="$PROJECT_DIR$/Supermarket.API/Controllers/CategoriesController.cs" web="/" />
+            <mapping local="$PROJECT_DIR$/Supermarket.API/Controllers/CategoryProductsController.cs" web="/" />
+            <mapping local="$PROJECT_DIR$/Supermarket.API/Controllers/ProductsController.cs" web="/" />
+            <mapping local="$PROJECT_DIR$/Supermarket.API/Controllers/WeatherForecastController.cs" web="/" />
+            <mapping local="$PROJECT_DIR$/Supermarket.API/Domain/Models/Category.cs" web="/" />
+            <mapping local="$PROJECT_DIR$/Supermarket.API/Domain/Models/EUnitOfMeasurement.cs" web="/" />
+            <mapping local="$PROJECT_DIR$/Supermarket.API/Domain/Models/Product.cs" web="/" />
+            <mapping local="$PROJECT_DIR$/Supermarket.API/Domain/Repositories/ICategoryRepository.cs" web="/" />
+            <mapping local="$PROJECT_DIR$/Supermarket.API/Domain/Repositories/IProductRepository.cs" web="/" />
+            <mapping local="$PROJECT_DIR$/Supermarket.API/Domain/Repositories/IUnitOfWork.cs" web="/" />
+            <mapping local="$PROJECT_DIR$/Supermarket.API/Domain/Services/Communication/BaseResponse.cs" web="/" />
+            <mapping local="$PROJECT_DIR$/Supermarket.API/Domain/Services/Communication/CategoryResponse.cs" web="/" />
+            <mapping local="$PROJECT_DIR$/Supermarket.API/Domain/Services/Communication/ProductResponse.cs" web="/" />
+            <mapping local="$PROJECT_DIR$/Supermarket.API/Domain/Services/ICategoryService.cs" web="/" />
+            <mapping local="$PROJECT_DIR$/Supermarket.API/Domain/Services/IProductService.cs" web="/" />
+            <mapping local="$PROJECT_DIR$/Supermarket.API/Extensions/EnumExtensions.cs" web="/" />
+            <mapping local="$PROJECT_DIR$/Supermarket.API/Extensions/ModelBuilderExtensions.cs" web="/" />
+            <mapping local="$PROJECT_DIR$/Supermarket.API/Extensions/ModelStateExtensions.cs" web="/" />
+            <mapping local="$PROJECT_DIR$/Supermarket.API/Extensions/StringExtensions.cs" web="/" />
+            <mapping local="$PROJECT_DIR$/Supermarket.API/Mapping/ModelToResourceProfile.cs" web="/" />
+            <mapping local="$PROJECT_DIR$/Supermarket.API/Mapping/ResourceToModelProfile.cs" web="/" />
+            <mapping local="$PROJECT_DIR$/Supermarket.API/Persistence/Contexts/AppDbContext.cs" web="/" />
+            <mapping local="$PROJECT_DIR$/Supermarket.API/Persistence/Repositories/BaseRepository.cs" web="/" />
+            <mapping local="$PROJECT_DIR$/Supermarket.API/Persistence/Repositories/CategoryRepository.cs" web="/" />
+            <mapping local="$PROJECT_DIR$/Supermarket.API/Persistence/Repositories/ProductRepository.cs" web="/" />
+            <mapping local="$PROJECT_DIR$/Supermarket.API/Persistence/Repositories/UnitOfWork.cs" web="/" />
+            <mapping local="$PROJECT_DIR$/Supermarket.API/Program.cs" web="/" />
+            <mapping local="$PROJECT_DIR$/Supermarket.API/Properties/launchSettings.json" web="/" />
+            <mapping local="$PROJECT_DIR$/Supermarket.API/Resources/CategoryResource.cs" web="/" />
+            <mapping local="$PROJECT_DIR$/Supermarket.API/Resources/ProductResource.cs" web="/" />
+            <mapping local="$PROJECT_DIR$/Supermarket.API/Resources/SaveCategoryResource.cs" web="/" />
+            <mapping local="$PROJECT_DIR$/Supermarket.API/Resources/SaveProductResource.cs" web="/" />
+            <mapping local="$PROJECT_DIR$/Supermarket.API/Services/CategoryService.cs" web="/" />
+            <mapping local="$PROJECT_DIR$/Supermarket.API/Services/ProductService.cs" web="/" />
+            <mapping local="$PROJECT_DIR$/Supermarket.API/Startup.cs" web="/" />
+            <mapping local="$PROJECT_DIR$/Supermarket.API/Supermarket.API.csproj" web="/" />
+            <mapping local="$PROJECT_DIR$/Supermarket.API/WeatherForecast.cs" web="/" />
+            <mapping local="$PROJECT_DIR$/Supermarket.API/appsettings.Development.json" web="/" />
+            <mapping local="$PROJECT_DIR$/Supermarket.API/appsettings.json" web="/" />
+            <mapping local="$PROJECT_DIR$/Supermarket.API/obj/Debug/net5.0/Supermarket.API.AssemblyInfo.cs" web="/" />
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+  </component>
+</project>
